@@ -1,0 +1,4 @@
+#Wed Sep 12 14:59:54 ART 2018
+base.0=/Users/desarrollo/Code/line-feels/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
