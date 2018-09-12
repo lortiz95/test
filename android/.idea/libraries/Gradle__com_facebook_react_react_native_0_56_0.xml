@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.facebook.react:react-native-0.56.0">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/fc2e70a25b913db8e4467b3ecd5ac596/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/fc2e70a25b913db8e4467b3ecd5ac596/jars/classes.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/fc2e70a25b913db8e4467b3ecd5ac596/jars/libs/infer-annotations-4.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/eba7955be48206d70469ff93e69e090e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/eba7955be48206d70469ff93e69e090e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/eba7955be48206d70469ff93e69e090e/jars/libs/infer-annotations-4.0.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.56.0/react-native-0.56.0-javadoc.jar!/" />

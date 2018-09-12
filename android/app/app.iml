@@ -146,8 +146,8 @@
     <orderEntry type="library" name="Gradle: com.facebook.react:react-native-0.56.0" level="project" />
     <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-1.9.0" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime-1.0.0" level="project" />
+    <orderEntry type="module" module-name="appcenter" />
     <orderEntry type="module" module-name="appcenter-crashes" />
     <orderEntry type="module" module-name="appcenter-analytics" />
-    <orderEntry type="module" module-name="appcenter" />
   </component>
 </module>

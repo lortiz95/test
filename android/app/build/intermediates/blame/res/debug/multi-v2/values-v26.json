@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/desarrollo/Code/line-feels/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/Users/desarrollo/Desktop/asd/test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
                     "source": "/Users/desarrollo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4b03d28a1737aa7edd92d38d4432bd8e/res/values-v26/values-v26.xml",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "outputFile": "/Users/desarrollo/Code/line-feels/android/app/build/intermediates/res/merged/debug/values-v26/values-v26.xml",
+            "outputFile": "/Users/desarrollo/Desktop/asd/test/android/app/build/intermediates/res/merged/debug/values-v26/values-v26.xml",
             "map": [
                 {
                     "source": "/Users/desarrollo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4b03d28a1737aa7edd92d38d4432bd8e/res/values-v26/values-v26.xml",
